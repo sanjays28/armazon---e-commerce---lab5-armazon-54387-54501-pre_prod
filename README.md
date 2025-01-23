@@ -1,1 +1,3 @@
-# armazon---e-commerce---lab5-armazon-54387-54501-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
